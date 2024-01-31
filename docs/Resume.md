@@ -6,6 +6,7 @@
 **Phone:** 667-351-2410  
 **Email:** rmallel1@umbc.edu  
 **LinkedIn:** [www.linkedin.com/rahulkaushikm](https://www.linkedin.com/rahulkaushikm)
+
 **Github:** [https://github.com/Ra-svg/Rahul](https://github.com/Ra-svg/Rahul)
 
 
@@ -68,4 +69,4 @@ _May/2023_
 ## PERSONAL INSTERESTS
 
 - Basketball
-- Having upto date information on geo-politics
+- geo-politics
